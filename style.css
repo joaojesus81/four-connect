@@ -1,0 +1,16 @@
+.grid {
+  width: 350px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: blue;
+}
+
+.grid div {
+  width: 50px;
+  height: 50px;
+}
+
+.reddisc {
+  background-color: red;
+}
